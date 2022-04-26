@@ -1,0 +1,3 @@
+H:\Users\Michał\Desktop\Pliki Do konca 4 sem inf\Kalkulator Michał Albiniak 5.0\Kalkulator_Michał Albniak\Kalkulator2\Debug\Kalkulator2.MyForm.resources
+H:\Users\Michał\Desktop\Pliki Do konca 4 sem inf\Kalkulator Michał Albiniak 5.0\Kalkulator_Michał Albniak\Kalkulator2\Debug\Kalkulator2.vcxproj.GenerateResource.cache
+H:\Users\Michał\Desktop\Pliki Do konca 4 sem inf\Kalkulator Michał Albiniak 5.0\Kalkulator_Michał Albniak\Kalkulator2\Debug\Kalkulator2.vcxproj.AssemblyReference.cache
